@@ -84,10 +84,9 @@ A basic React website layout.
 
 ## 📸 Screenshots
 
-> *(Add screenshots here for each project — this makes your repo stand out a LOT)*
 > <img width="1909" height="962" alt="Screenshot 2026-03-23 230805" src="https://github.com/user-attachments/assets/b0ca407d-6f0d-44f9-8d54-ad0c2b525700" />
 
-<img width="1912" height="974" alt="Screenshot 2026-03-23 232034" src="https://github.com/user-attachments/assets/d2363f2c-c712-450f-94a2-4ac6ad284003" />
+> <img width="1912" height="974" alt="Screenshot 2026-03-23 232034" src="https://github.com/user-attachments/assets/d2363f2c-c712-450f-94a2-4ac6ad284003" />
 
 ---
 
@@ -96,7 +95,7 @@ A basic React website layout.
 * 📅 Day 1–3 → Basics (JSX, Components)
 * 📅 Day 4–7 → Props & State
 * 📅 Day 8–12 → Built projects (Note Manager, UI components)
-* 📅 Ongoing → Improving UI & building real-world apps
+* 📅 Ongoing → useEffect hook and axios
 
 ---
 
@@ -120,7 +119,7 @@ A basic React website layout.
 
 ## 🌍 Live Demo
 
-> mini-Note-Manger :- [*(Add deployed links here using Vercel or Netlify)*](https://mini-note-manager.netlify.app/)
+> mini-Note-Manger :- https://mini-note-manager.netlify.app/
 > web-design :- https://basic-web-design-1.netlify.app
 
 ---
