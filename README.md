@@ -165,10 +165,10 @@ My most advanced project — working with **real API data + pagination**.
 
 ## 📈 Learning Timeline
 
-* 📅 Day 1–3 → JSX, Components
-* 📅 Day 4–7 → Props & State
-* 📅 Day 8–12 → Built small projects
-* 📅 Day 13+ → API integration, useEffect, Axios
+* 📅 Day 1–2 → JSX, Components
+* 📅 Day 3–4 → Props & State
+* 📅 Day 5–7 → Built small projects
+* 📅 Day 8+ → API integration, useEffect, Axios
 * 📅 Current → Performance optimization & real-world apps
 
 ---
@@ -221,6 +221,8 @@ Rendering too much data slowed UI.
 
 * 📝 Note Manager: https://mini-note-manager.netlify.app/
 * 🌐 Website UI: https://basic-web-design-1.netlify.app
+* 📸 Mini-Random-Gallery: https://mini-random-gallery.netlify.app/
+
 
 *(Image Gallery deployment coming soon 🚀)*
 
