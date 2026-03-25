@@ -157,7 +157,8 @@ My most advanced project — working with **real API data + pagination**.
 
 > <img width="1912" height="974" alt="Screenshot 2026-03-23 232034" src="https://github.com/user-attachments/assets/d2363f2c-c712-450f-94a2-4ac6ad284003" />
 
-> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01fb6546-7b34-4a5e-a79f-bb7cac9f0e05" />
+> <img width="1912" height="963" alt="image" src="https://github.com/user-attachments/assets/4648cf2d-d457-49e2-9158-be5d6676c339" />
+
 
 
 ---
