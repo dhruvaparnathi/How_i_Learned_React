@@ -7,7 +7,7 @@ import Notes from './components/Notes'
 import { useState } from 'react'
 
 function App() {
-  const [notes, setNotes] = useState([]);
+  const [notes, setNotes] = useState([]);v
 
   const addNote = (note) => {
     setNotes([note, ...notes]);
