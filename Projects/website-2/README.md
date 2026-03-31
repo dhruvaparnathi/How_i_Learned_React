@@ -31,6 +31,7 @@
 | **Tailwind CSS** | Styling & Responsive Layout |
 | **React Router** | Dynamic SPA Routing |
 | **Lucide React** | Minimalist Vector Iconography |
+| **Remix Icons** | Appy Icons |
 
 ---
 
@@ -63,16 +64,6 @@ src/
 
 ---
 
-## 🛠️ Tech Stack
-
-| Tool | Purpose |
-| :--- | :--- |
-| **React** | Component Architecture (Vite) |
-| **Tailwind CSS** | Styling & Responsive Layout |
-| **React Router** | Dynamic SPA Routing |
-| **Lucide React** | Minimalist Vector Iconography |
-
----
 
 ## 🔗 Routing Details
 
@@ -80,7 +71,7 @@ src/
 The entire application is wrapped in `<BrowserRouter>` within `App.jsx`, providing the context for all navigation hooks and components.
 
 ### 2. Dynamic Product Routing
-We implement **Dynamic Segment Matching**:
+I implement **Dynamic Segment Matching**:
 - **Path**: `/products/:productId`
 - **Implementation**: Uses `useParams()` to extract the ID and filter content dynamically.
 
@@ -104,4 +95,4 @@ The `Nav` component uses `useLocation()` to detect the current path and visually
 ---
 
 > Built with passion by ** Me @Dhruv_Aparnathi** ⚡
-> Inspiring Site:- ** [](https://good-fella.com) **
+> Inspiring Site:- ** [https://good-fella.com] **
