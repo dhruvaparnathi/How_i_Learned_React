@@ -53,7 +53,7 @@ This repo shows:
 
 ---
 
-### 🔴 Phase 4: Real-World Concepts (Current Level 🚀)
+### 🔴 Phase 4: Real-World Concepts
 
 * useEffect & API calls
 * Axios for data fetching
@@ -64,14 +64,27 @@ This repo shows:
 
 ---
 
+### 🟣 Phase 5: Advanced Routing & Architecture (Current Level 🚀)
+
+* **React Router DOM** for Single Page Applications (SPA)
+* Dynamic Routing with URL Parameters (`useParams`)
+* Navigation state management (`useLocation`)
+* Professional "Agency-Grade" UI/UX design
+
+👉 Focus: *“Thinking like a Software Architect”*
+
+---
+
 ## 🛠️ Tech Stack
 
 * ⚛️ React.js
+* 🛣️ React Router DOM (Navigation)
 * 🎨 Tailwind CSS
 * 📦 Vite
 * 🧠 JavaScript (ES6+)
 * 🌐 Axios (API handling)
 * 💾 LocalStorage
+* ⚡ Lucide React (Iconography)
 
 ---
 
@@ -129,9 +142,9 @@ A multi-section responsive website layout.
 
 ---
 
-### 🖼️ 4. Image Gallery App (Latest 🚀)
+### 🖼️ 4. Image Gallery App
 
-My most advanced project — working with **real API data + pagination**.
+Working with **real API data + pagination**.
 
 **✨ Features:**
 
@@ -151,12 +164,38 @@ My most advanced project — working with **real API data + pagination**.
 
 ---
 
+### ⚡ 5. Zoomer Digital Studio (Latest 🚀)
+
+My most advanced project yet — a professional studio clone focusing on **SPA Architecture**.
+
+**✨ Features:**
+
+* **Full-Screen Navigation**: A complex overlay menu system.
+* **Dynamic Product Routes**: Individual detail pages generated via URL parameters.
+* **Active Link Tracking**: Menu items that know where you are on the site.
+* **High-End UI**: Premium dark mode aesthetic with bold typography.
+
+**🧠 What I Learned:**
+
+* Implementing `BrowserRouter`, `Routes`, and `Route`.
+* Dynamic segment matching with `:productId`.
+* Using `useLocation` to drive UI logic.
+* Handling complex library exports (Lucide) and Vite build issues.
+
+---
+
 ## 📸 Screenshots
 
+> **Zoomer Digital Studio (website-2)**
+> <img width="1898" height="956" alt="image" src="https://github.com/user-attachments/assets/ec779664-1e4a-4e6f-93bb-61e35bda8933" />
+
+> **Image Gallery App**
 > <img width="1909" height="962" alt="Screenshot 2026-03-23 230805" src="https://github.com/user-attachments/assets/b0ca407d-6f0d-44f9-8d54-ad0c2b525700" />
 
+> **Website-1 UI**
 > <img width="1912" height="974" alt="Screenshot 2026-03-23 232034" src="https://github.com/user-attachments/assets/d2363f2c-c712-450f-94a2-4ac6ad284003" />
 
+> **Note Manager**
 > <img width="1912" height="963" alt="image" src="https://github.com/user-attachments/assets/4648cf2d-d457-49e2-9158-be5d6676c339" />
 
 
@@ -168,63 +207,48 @@ My most advanced project — working with **real API data + pagination**.
 * 📅 Day 1–2 → JSX, Components
 * 📅 Day 3–4 → Props & State
 * 📅 Day 5–7 → Built small projects
-* 📅 Day 8+ → API integration, useEffect, Axios
-* 📅 Current → Performance optimization & real-world apps
+* 📅 Day 8–10 → API integration, useEffect, Axios
+* 📅 Day 11+ → React Router DOM, Dynamic Routes, SPAs
+* 📅 Current → Building agency-level digital experiences
 
 ---
 
 ## ⚡ Challenges I Faced (and Overcame)
 
 ### 🔴 Understanding State Updates
-
 Initially confusing how React re-renders components.
-
 ✅ Learned how state drives UI and triggers re-renders.
 
----
-
-### 🔴 Component Structuring
-
-Struggled with organizing code properly.
-
-✅ Improved by breaking UI into reusable components.
-
----
+### 🔴 Navigation & Routing
+Moving from state-based page switching to a real Router.
+✅ Mastered URL-based navigation and deep linking.
 
 ### 🔴 Handling Async Data
-
 API calls and useEffect were tricky at first.
-
 ✅ Understood dependency arrays and data flow.
 
----
-
-### 🔴 Performance Issues
-
-Rendering too much data slowed UI.
-
-✅ Solved using pagination and controlled data fetching.
+### 🔴 Performance & Debugging
+Handling module syntax errors and Vite caching.
+✅ Learned to use `--force` flags and case-sensitive library imports.
 
 ---
 
 ## 🔗 Future Improvements
 
 * 🌐 Convert projects into MERN stack
-* 🔐 Add authentication
-* 🎨 Improve UI/UX to production level
-* 🚀 Deploy all projects
-* 📱 Add more real-world features
+* 🔐 Add authentication (Firebase/Auth0)
+* 🎨 Add Framer Motion for premium animations
+* 🚀 Deploy all projects to Vercel/Netlify
+* 📱 Mobile-first optimization for all apps
 
 ---
 
 ## 🌍 Live Demo
 
+* ⚡ **Zoomer Studio**: https://basic-web-routing.netlify.app/
+* 📸 Mini-Random-Gallery: https://mini-random-gallery.netlify.app/
 * 📝 Note Manager: https://mini-note-manager.netlify.app/
 * 🌐 Website UI: https://basic-web-design-1.netlify.app
-* 📸 Mini-Random-Gallery: https://mini-random-gallery.netlify.app/
-
-
-*(Image Gallery deployment coming soon 🚀)*
 
 ---
 
