@@ -187,7 +187,7 @@ My most advanced project yet — a professional studio clone focusing on **SPA A
 ## 📸 Screenshots
 
 > **Zoomer Digital Studio (website-2)**
-> [](image-1.png)
+> ![alt text](image.png)
 
 > **Image Gallery App**
 > <img width="1909" height="962" alt="Screenshot 2026-03-23 230805" src="https://github.com/user-attachments/assets/b0ca407d-6f0d-44f9-8d54-ad0c2b525700" />
