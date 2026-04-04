@@ -187,19 +187,15 @@ My most advanced project yet — a professional studio clone focusing on **SPA A
 ## 📸 Screenshots
 
 > **Zoomer Digital Studio (website-2)**
-<<<<<<< HEAD
-> ![alt text](image.png)
-=======
 > <img width="1898" height="956" alt="image" src="https://github.com/user-attachments/assets/ec779664-1e4a-4e6f-93bb-61e35bda8933" />
->>>>>>> 7a6dcad56297885f346bd859c9308b59c52c453f
-
-> **Image Gallery App**
-> <img width="1909" height="962" alt="Screenshot 2026-03-23 230805" src="https://github.com/user-attachments/assets/b0ca407d-6f0d-44f9-8d54-ad0c2b525700" />
 
 > **Website-1 UI**
-> <img width="1912" height="974" alt="Screenshot 2026-03-23 232034" src="https://github.com/user-attachments/assets/d2363f2c-c712-450f-94a2-4ac6ad284003" />
+> <img width="1909" height="962" alt="Screenshot 2026-03-23 230805" src="https://github.com/user-attachments/assets/b0ca407d-6f0d-44f9-8d54-ad0c2b525700" />
 
 > **Note Manager**
+> <img width="1912" height="974" alt="Screenshot 2026-03-23 232034" src="https://github.com/user-attachments/assets/d2363f2c-c712-450f-94a2-4ac6ad284003" />
+
+>  **Image Gallery App**
 > <img width="1912" height="963" alt="image" src="https://github.com/user-attachments/assets/4648cf2d-d457-49e2-9158-be5d6676c339" />
 
 
