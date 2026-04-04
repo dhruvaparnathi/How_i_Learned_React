@@ -2,7 +2,7 @@
 
 Welcome to my React journey — not just a collection of projects, but a **timeline of how I evolved as a developer**.
 
-This repository reflects how I moved from **learning basics → building UI → handling real-world data → thinking like a developer**.
+This repository reflects how I moved from **learning basics → building UI → handling real-world data → building polished applications**.
 
 ---
 
@@ -64,204 +64,151 @@ This repo shows:
 
 ---
 
-### 🟣 Phase 5: Advanced Routing & Architecture (Current Level 🚀)
+### 🟣 Phase 5: Advanced Routing & Architecture
 
-* **React Router DOM** for Single Page Applications (SPA)
-* Dynamic Routing with URL Parameters (`useParams`)
-* Navigation state management (`useLocation`)
-* Professional "Agency-Grade" UI/UX design
+* React Router DOM (SPA)
+* Dynamic routing with URL params
+* Navigation state management
+* Complex UI systems
 
-👉 Focus: *“Thinking like a Software Architect”*
+👉 Focus: *“Thinking like a developer”*
+
+---
+
+### 🟢 Phase 6: Real Product Thinking (Latest 🚀)
+
+* Built a complete finance tracker (**Transact**)
+* Persistent state using localStorage
+* Global state management with Context API
+* Clean UI + real usability focus
+
+👉 Focus: *“Building real usable products”*
 
 ---
 
 ## 🛠️ Tech Stack
 
 * ⚛️ React.js
-* 🛣️ React Router DOM (Navigation)
+* -useState
+* -useEffect
+* 🛣️ React Router DOM
 * 🎨 Tailwind CSS
 * 📦 Vite
 * 🧠 JavaScript (ES6+)
-* 🌐 Axios (API handling)
+* 🌐 Axios
 * 💾 LocalStorage
-* ⚡ Lucide React (Iconography)
+* 🧠 Context API
+* ⚡ Lucide React
 
 ---
 
 ## 📂 Projects Included
 
 ### 📝 1. Note Manager
-
-A simple yet important project where I learned **state + persistence**.
-
-**✨ Features:**
-
-* Add & delete notes
-* Data stored using localStorage
-* Responsive UI
-
-**🧠 What I Learned:**
-
-* State management (useState)
-* Form handling
-* LocalStorage integration
+* Learned state + localStorage basics
 
 ---
 
 ### 🎴 2. Card Components
-
-Focused on building **reusable UI components**.
-
-**✨ Features:**
-
-* Clean and modular UI
-* Responsive design
-
-**🧠 What I Learned:**
-
-* Props usage
-* Component reusability
-* UI structuring
+* Focused on reusable UI components
 
 ---
 
 ### 🌐 3. Website UI (website-1)
-
-A multi-section responsive website layout.
-
-**✨ Features:**
-
-* Structured layout
-* Tailwind-based styling
-
-**🧠 What I Learned:**
-
-* Layout design
-* Component hierarchy
-* Responsive thinking
+* Multi-section responsive layout
 
 ---
 
 ### 🖼️ 4. Image Gallery App
-
-Working with **real API data + pagination**.
-
-**✨ Features:**
-
-* Fetch images from API (Picsum)
-* Pagination system (Next / Prev)
-* Interactive UI with hover effects
-* Click image → open full resolution
-* Responsive grid layout
-
-**🧠 What I Learned:**
-
-* useEffect with dependencies
-* Axios for API calls
-* Handling async data
-* Performance optimization using pagination
-* Avoiding unnecessary re-renders
+* API + pagination + performance
 
 ---
 
-### ⚡ 5. Zoomer Digital Studio (Latest 🚀)
-
-My most advanced project yet — a professional studio clone focusing on **SPA Architecture**.
-
-**✨ Features:**
-
-* **Full-Screen Navigation**: A complex overlay menu system.
-* **Dynamic Product Routes**: Individual detail pages generated via URL parameters.
-* **Active Link Tracking**: Menu items that know where you are on the site.
-* **High-End UI**: Premium dark mode aesthetic with bold typography.
-
-**🧠 What I Learned:**
-
-* Implementing `BrowserRouter`, `Routes`, and `Route`.
-* Dynamic segment matching with `:productId`.
-* Using `useLocation` to drive UI logic.
-* Handling complex library exports (Lucide) and Vite build issues.
+### ⚡ 5. Zoomer Digital Studio
+* Advanced routing + UI system
 
 ---
 
-## 📸 Screenshots
+### 💸 6. Transact (Latest 🚀)
 
-> **Zoomer Digital Studio (website-2)**
-> <img width="1898" height="956" alt="image" src="https://github.com/user-attachments/assets/ec779664-1e4a-4e6f-93bb-61e35bda8933" />
+A real-world **finance tracking web app**.
 
-> **Image Gallery App**
-> <img width="1909" height="962" alt="Screenshot 2026-03-23 230805" src="https://github.com/user-attachments/assets/b0ca407d-6f0d-44f9-8d54-ad0c2b525700" />
+**✨ Features:**
+* Add & delete transactions
+* Search & filter system
+* Income / Expense tracking
+* Auto-calculated balance
+* Persistent data using localStorage
+* Clean and modern UI
 
-> **Note Manager**
-> <img width="1912" height="974" alt="Screenshot 2026-03-23 232034" src="https://github.com/user-attachments/assets/d2363f2c-c712-450f-94a2-4ac6ad284003" />
-
->  **Image Gallery App**
-> <img width="1912" height="963" alt="image" src="https://github.com/user-attachments/assets/4648cf2d-d457-49e2-9158-be5d6676c339" />
-
-
+**🧠 What I Learned:**
+* Context API for global state
+* Fixing async state bugs (stale state issue)
+* Real-world UX thinking
+* Data persistence patterns
 
 ---
 
 ## 📈 Learning Timeline
 
-* 📅 Day 1–2 → JSX, Components
-* 📅 Day 3–4 → Props & State
-* 📅 Day 5–7 → Built small projects
-* 📅 Day 8–10 → API integration, useEffect, Axios
-* 📅 Day 11+ → React Router DOM, Dynamic Routes, SPAs
-* 📅 Current → Building agency-level digital experiences
+* Day 1–2 → JSX, Components  
+* Day 3–4 → Props & State  
+* Day 5–7 → Small projects  
+* Day 8–10 → APIs, useEffect  
+* Day 11+ → Routing & SPA  
+* Current → Building real-world apps (Transact 🚀)
 
 ---
 
 ## ⚡ Challenges I Faced (and Overcame)
 
-### 🔴 Understanding State Updates
-Initially confusing how React re-renders components.
-✅ Learned how state drives UI and triggers re-renders.
+### 🔴 State Bugs (Important 🚀)
+Faced issues with stale state while saving to localStorage  
+✅ Learned functional updates and proper state syncing
 
-### 🔴 Navigation & Routing
-Moving from state-based page switching to a real Router.
-✅ Mastered URL-based navigation and deep linking.
+### 🔴 Routing Complexity
+Understanding dynamic routes  
+✅ Mastered React Router
 
-### 🔴 Handling Async Data
-API calls and useEffect were tricky at first.
-✅ Understood dependency arrays and data flow.
+### 🔴 Async Data Handling
+Confusing useEffect behavior  
+✅ Learned dependency management
 
-### 🔴 Performance & Debugging
-Handling module syntax errors and Vite caching.
-✅ Learned to use `--force` flags and case-sensitive library imports.
+### 🔴 Debugging & Build Issues
+Vite & module errors  
+✅ Learned debugging strategies
 
 ---
 
 ## 🔗 Future Improvements
 
-* 🌐 Convert projects into MERN stack
-* 🔐 Add authentication (Firebase/Auth0)
-* 🎨 Add Framer Motion for premium animations
-* 🚀 Deploy all projects to Vercel/Netlify
-* 📱 Mobile-first optimization for all apps
+* 📊 Charts & analytics
+* 🌙 Dark mode
+* ☁️ Backend integration (MERN)
+* 🔐 Authentication
+* 🎨 Advanced animations
 
 ---
 
-## 🌍 Live Demo
+## 🌍 Live Projects
 
-* ⚡ **Zoomer Studio**: https://basic-web-routing.netlify.app/
-* 📸 Mini-Random-Gallery: https://mini-random-gallery.netlify.app/
-* 📝 Note Manager: https://mini-note-manager.netlify.app/
-* 🌐 Website UI: https://basic-web-design-1.netlify.app
+* 💸 Transact: https://transact-your-transactions.netlify.app
+* ⚡ Zoomer Studio: https://basic-web-routing.netlify.app/
+* 📸 Gallery: https://mini-random-gallery.netlify.app/
+* 📝 Notes: https://mini-note-manager.netlify.app/
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 GitHub: https://github.com/dhruvaparnathi
+* 💼 GitHub: https://github.com/dhruvaparnathi  
 * 🔗 LinkedIn: https://www.linkedin.com/in/dhruv-aparnathi-506b58306/
 
 ---
 
 ## ⭐ If You Like This Repo
 
-Give it a ⭐ — it motivates me to build more and go further!
+Give it a ⭐ — it motivates me to build more!
 
 ---
 
@@ -270,11 +217,10 @@ Give it a ⭐ — it motivates me to build more and go further!
 This repository is more than code.
 
 It shows:
+* where I started  
+* how I improved  
+* and where I’m heading  
 
-* where I started
-* how I improved
-* and where I’m heading next
-
-👉 *From learning React → to building real-world applications.*
+👉 From learning → to building real products.
 
 🚀 And this is just the beginning.
